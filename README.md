@@ -1,2 +1,0 @@
-# arcanoidjs
-Created with CodeSandbox
